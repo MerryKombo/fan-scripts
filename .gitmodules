@@ -4,3 +4,6 @@
 [submodule "rpi-ws281x-python"]
 	path = rpi-ws281x-python
 	url = https://github.com/rpi-ws281x/rpi-ws281x-python.git
+[submodule "raspberry-pi-pwm-fan-2"]
+	path = raspberry-pi-pwm-fan-2
+	url = https://github.com/folkhack/raspberry-pi-pwm-fan-2.git
